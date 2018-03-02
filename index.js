@@ -29,7 +29,7 @@ function viewCart() {
   }
   else if (cart.length ===  1){
     cartItems = "In your cart, you have " + 
-    cart[0] + " at $" + cart[0][0] +".";
+    Work with Object.keys(cart[0] + " at $" + cart[0][0] +".";
   }
   else {
     cartItems = "In your cart, you have ";
